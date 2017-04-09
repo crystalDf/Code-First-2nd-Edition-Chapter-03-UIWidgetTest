@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UIWidgetTest</string>
+    <string name="text_view">TextView</string>
+    <string name="button">Button</string>
+    <string name="type_something_here">Type something here</string>
+    <string name="emma">Emma</string>
+</resources>
